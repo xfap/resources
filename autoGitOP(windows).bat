@@ -8,4 +8,3 @@ git add .
 git commit -a -m "auto by bat(%username%) at %date% %time%"
 :: push to server
 git push
-pause
